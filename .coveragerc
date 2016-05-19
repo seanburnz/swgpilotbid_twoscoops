@@ -1,0 +1,5 @@
+[run]
+include = sunwingpilotbid_twoscoops/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
